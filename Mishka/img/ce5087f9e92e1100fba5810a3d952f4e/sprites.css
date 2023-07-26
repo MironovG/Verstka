@@ -1,0 +1,88 @@
+.flag, .galochka, .huge-arrow-left, .huge-arrow-right, .icon-1, .icon-2, .icon-3, .icon-4, .icon-5, .icon-6, .interior, .map-pin, .toy-svg, .video{
+	background: url(sprites.png) no-repeat;
+}
+
+.flag{
+	background-position: -4px -9px ;
+	width: 47px;
+	height: 81px;
+}
+
+.galochka{
+	background-position: -60px -15px ;
+	width: 33px;
+	height: 22px;
+}
+
+.huge-arrow-left{
+	background-position: -103px -9px ;
+	width: 50px;
+	height: 26px;
+}
+
+.huge-arrow-right{
+	background-position: -71px -53px ;
+	width: 50px;
+	height: 26px;
+}
+
+.icon-1{
+	background-position: -131px -155px ;
+	width: 33px;
+	height: 38px;
+}
+
+.icon-2{
+	background-position: -236px -105px ;
+	width: 35px;
+	height: 34px;
+}
+
+.icon-3{
+	background-position: -231px -62px ;
+	width: 47px;
+	height: 27px;
+}
+
+.icon-4{
+	background-position: -223px -12px ;
+	width: 55px;
+	height: 23px;
+}
+
+.icon-5{
+	background-position: -252px -164px ;
+	width: 34px;
+	height: 27px;
+}
+
+.icon-6{
+	background-position: -167px -9px ;
+	width: 33px;
+	height: 32px;
+}
+
+.interior{
+	background-position: -6px -108px ;
+	width: 41px;
+	height: 62px;
+}
+
+.map-pin{
+	background-position: -154px -49px ;
+	width: 67px;
+	height: 100px;
+}
+
+.toy-svg{
+	background-position: -58px -109px ;
+	width: 60px;
+	height: 61px;
+}
+
+.video{
+	background-position: -189px -165px ;
+	width: 32px;
+	height: 22px;
+}
+
